@@ -2,7 +2,6 @@ import app from "firebase/app";
 import "firebase/auth"
 import "firebase/firebase-firestore"
 
-
 var firebaseConfig = {
     apiKey: "AIzaSyDxFuYvYPsm53Q_5uvq5GZmy9qefOi7t_U",
     authDomain: "trip-advisor-2759d.firebaseapp.com",
